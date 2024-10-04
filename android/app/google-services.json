@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33159153798",
+    "project_id": "madlogin-36bc5",
+    "storage_bucket": "madlogin-36bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33159153798:android:c19aa875774a8907b92907",
+        "android_client_info": {
+          "package_name": "com.example.fingara_testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrkw_-IKbtGhwa6YuzCso9YRpb_li-MdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
